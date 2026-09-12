@@ -2,7 +2,7 @@
 
 <!-- ==================== NEURAL STATUS & COMPUTE MATRIX ==================== -->
 <p align="center">
-  <code>⚡ &nbsp; <b>NEURAL CORE SYNCHRONIZED // AGENTIC AI MATRIX V4.0 ONLINE</b> &nbsp; ⚡</code>
+  <code>⚡ &nbsp; <b> NEURAL CORE SYNCHRONIZED // AGENTIC AI MATRIX V4.0 ONLINE</b> &nbsp; ⚡ </code>
 </p>
 
 <!-- ==================== HERO NEURAL AI HEADER BANNER ==================== -->
